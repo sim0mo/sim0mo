@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sim0mo&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sim0mo/sim0mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
